@@ -1,0 +1,23 @@
+ 
+input {
+    font: 12px Consolas, Courier;
+}
+ 
+#chatbox {
+    text-align: left;
+    margin: 10 auto;
+    margin-bottom: 25px;
+    height: 80vh;
+    border: 2px solid black;
+    border-radius: 5px;
+    overflow: auto;
+}
+ 
+#usermsg {
+    width: 40vw;
+}
+ 
+#submit {
+    width: 10px;
+}
+
